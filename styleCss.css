@@ -1,0 +1,43 @@
+body {
+    color: coral;
+}
+a {
+    text-decoration: none;
+    color: #f34e15;
+    text-align: left;
+    cursor: grab;
+}
+
+div {
+    text-shadow: 2px 4px lightgrey;
+    margin: 15px;
+    padding: 20px;
+}
+
+p {
+    text-indent: 50px;
+}
+
+.ulpair {
+    font-style: italic;
+}
+
+.ulimpair {
+    font-weight: bold;
+}
+
+.cadre {
+    border: 1px solid black;
+    height: 300px;
+    width: 500px;
+}
+
+img {
+    position: fixed;
+    right: 0;
+    top: 0;
+}
+
+ul {
+    list-style-type: lower-alpha;
+}
